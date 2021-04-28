@@ -1,6 +1,1 @@
-<?php
-
-include_once("indexx.html");
-
-
-?>
+<?php header( 'Location: /indexx.html' ); ?>
